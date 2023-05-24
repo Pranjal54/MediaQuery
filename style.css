@@ -1,6 +1,6 @@
 body{
    background-color: aquamarine;
-   align-item:center;
+   text-align:center;
 }
 
 @media  screen and (min-width:0px) {
